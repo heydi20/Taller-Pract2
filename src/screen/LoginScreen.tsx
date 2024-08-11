@@ -28,8 +28,8 @@ export const LoginScreen = () => {
 
     //arreglo con los usuarios para iniciar sesión
     const users: User[] = [
-        { id: 1, email: 'vflores@gmail.com', password: '123456' },
-        { id: 2, email: 'caguas@gmail.com', password: '1234567' }
+        { id: 1, email: 'heydi@gmail.com', password: '246810' },
+        { id: 2, email: 'genesis@gmail.com', password: '136912' }
     ];
 
     //hook useState: manipular el estado del formulario
